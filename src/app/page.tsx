@@ -83,7 +83,7 @@ const HomePage: React.FC = () => {
             </div>
           ))}
         </div>
-        <Link href="/posts" className="text-indigo-500 block text-center items-center mt-16">
+        <Link href="/" className="text-indigo-500 block text-center items-center mt-16">
           View All Posts
         </Link>
       </div>
